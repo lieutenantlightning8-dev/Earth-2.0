@@ -1,0 +1,3 @@
+Set in present times, Earth 2.0 has near future technologies but still grounded, the main alliance is the trinity, with [[New Goobrus Land]], [[The Cherry Isles]], and recently added is the [[Montrian Republic]]. There are many more made up countries however I cannot name them all so everyone may put the name of their country, gdp, annual spending, annual military budget, and general location below:
+**Country Name        GDP      Annual Spending     Annual Military Budget   General Location**
+[[Montrian Republic]]   30T         6.5 Trillion                     900 Billion                           Bering Sea
